@@ -5,6 +5,7 @@ public class SecondJavaClass {
 	public static void main(String[] args) {
 		System.out.println("Second Java Class - update");
 		System.out.println("Feature1 update");
+		System.out.println("update from github web");
 	}
 
 }
