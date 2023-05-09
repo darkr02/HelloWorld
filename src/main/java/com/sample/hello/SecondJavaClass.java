@@ -8,6 +8,7 @@ public class SecondJavaClass {
 		System.out.println("update from github web");
 		System.out.println("new update from github web feature2");
 		System.out.println("update from github web Master Branch");
+		System.out.println("update from eclipse Master Branch");
 	}
 
 }
